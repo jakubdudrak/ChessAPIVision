@@ -1,5 +1,4 @@
 package com.jakub.ChessVisionAPI.controller;
-
 import com.jakub.ChessVisionAPI.ApiService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;

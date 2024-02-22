@@ -9,5 +9,4 @@ class ChessVisionApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
